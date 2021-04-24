@@ -1,5 +1,7 @@
 # Protfolio Admin Site
-Site created to fullfill my portfolio site.
+Site created to fullfill my portfolio site. 
+Site allows me to see all the messages sent through contact form on my portfolio site.
+Site was build following OOP approach. 
 
 ## How to run?
 
@@ -14,3 +16,6 @@ Site created to fullfill my portfolio site.
 - Parcel
 - Bootstrap 
 - Axios
+
+## How does the site looks like?
+![Portfolio](./assets/Website.png)
