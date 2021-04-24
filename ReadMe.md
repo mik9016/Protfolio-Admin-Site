@@ -1,7 +1,9 @@
-# Protfolio Admin Site
+# Portfolio Admin Site
 Site created to fullfill my portfolio site. 
 Site allows me to see all the messages sent through contact form on my portfolio site.
 Site was build following OOP approach. 
+Using Axios site connects with a backend made in Node.js and if credentials are valid serves list of messages.
+
 
 ## How to run?
 
