@@ -18,4 +18,4 @@ Site was build following OOP approach.
 - Axios
 
 ## How does the site looks like?
-![Portfolio](./assets/Website.png)
+<img src="./assets/Website.png"/>
